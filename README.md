@@ -14,7 +14,7 @@
 
 - As imagens da API deverão ser armazenadas localmente.
 - Exibir na listagem da consulta a imagem do usuário, nome e email.
-- Utilizar paginação de 15 registros por vez com sistema de scroll infinito ou botão para carregar mais.
+- Utilizar paginação de 15 registros por vez com botão para carregar mais ou sistema de scroll infinito.
 - Implementar filtro de usuários por sexo (gender).
 
 #### 2. Exibir detalhes do usuário
@@ -30,7 +30,7 @@
 
 - Construir UI e UX seguindo os padrões do Material Design [https://material.io/design].
 - Salvar os dados da API no banco de dados local servindo como cache.
-- Bom tratamento de erros ao consultar API externa.
+- Tratamento de erros ao consultar APIs (erro de conexão, dados inválidos, etc).
 - Paginar resultados usando método do scroll infinito.
 - Escolha de bibliotecas populares e estáveis para auxiliar no desenvolvimento.
 - Aplicar técnicas mais avançadas como injeção de dependência e design patterns.
@@ -42,5 +42,6 @@
 - Preocupação com organização, padronização, modularização e qualidade do código.
 - Aplicação da lógica de programação e otimização de código.
 - Tempo para conclusão do projeto.
+
 
 **Faça um fork deste repositório contendo o esqueleto inicial da aplicação.**
