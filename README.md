@@ -32,7 +32,7 @@
 - Salvar os dados da API no banco de dados local servindo como cache.
 - Bom tratamento de erros ao consultar API externa.
 - Paginar resultados usando método do scroll infinito.
-- Escolha de libs populares e estáveis para auxiliar no desenvolvimento.
+- Escolha de bibliotecas populares e estáveis para auxiliar no desenvolvimento.
 - Aplicar técnicas mais avançadas como injeção de dependência e design patterns.
 - Testes unitários.
 
@@ -42,3 +42,5 @@
 - Preocupação com organização, padronização, modularização e qualidade do código.
 - Aplicação da lógica de programação e otimização de código.
 - Tempo para conclusão do projeto.
+
+**Faça um fork deste repositório contendo o esqueleto inicial da aplicação.**
