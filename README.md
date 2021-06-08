@@ -43,5 +43,8 @@
 - Aplicação da lógica de programação e otimização de código.
 - Tempo para conclusão do projeto.
 
+### Observações
 
-**Faça um fork deste repositório contendo o esqueleto inicial da aplicação.**
+- *Faça um fork deste repositório contendo o esqueleto inicial da aplicação.*
+- *Não é necessário disponibilizar a versão web e nem gerar um APK.*
+- *Compartilhe o link do seu repositório ao finalizar o projeto.*
