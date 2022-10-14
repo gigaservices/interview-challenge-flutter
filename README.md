@@ -43,7 +43,17 @@
 - Desenvolvimento de código bem modularizado e com separação de responsabilidades.
 - Construção da interface utilizando corretamente as recomendações do Material Design. 
 
-### Observações
+### Instruções
 
 - *Não é necessário disponibilizar a versão web e nem gerar um APK.*
 - *Compartilhe o link do seu repositório ao finalizar o projeto.*
+
+### Perguntas
+
+Ao compartilhar o link do projeto finalizado, pedimos que responda mais 3 perguntas adicionais a seguir:
+
+1) Quais padrões de gerenciamento de estados já utilizou em seus projetos ou que tem bons conhecimentos?
+
+2) Tem conhecimentos de SOLID e arquitetura limpa? Se sim, já utilizou em algum projeto?
+
+3) Poderia listar e compartilhar projetos em Flutter já realizados?
