@@ -7,7 +7,7 @@
 - Use os seguintes parâmetros na consulta:
 
   - format=json
-  - page=*<numero>*
+  - page=*numero_da_pagina*
   - results=15
   - inc=gender,name,email,picture
   - nat=br
