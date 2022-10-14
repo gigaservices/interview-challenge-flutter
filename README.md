@@ -7,14 +7,13 @@
 - Use os seguintes parâmetros na consulta:
 
   - format=json
-  - page=
+  - page=*<numero>*
   - results=15
   - inc=gender,name,email,picture
   - nat=br
 
-- As imagens da API deverão ser armazenadas localmente.
 - Exibir na listagem da consulta a imagem do usuário, nome e email.
-- Utilizar paginação de 15 registros por vez com botão para carregar mais ou sistema de scroll infinito.
+- Implementar paginação de 20 registros por vez com botão para carregar mais ou sistema de scroll infinito.
 - Implementar filtro de usuários por sexo (gender).
 
 #### 2. Exibir detalhes do usuário
@@ -23,28 +22,28 @@
  
 ### Regras
 
-- Utilizar framework Flutter.
-- Não é necessário exigir autenticação dos usuários que utilizarão a aplicação.
+- O código precisa ser escrito em inglês.
+- Utilizar a versão mais recente do Flutter.
+- Construir UI (telas e componentes) da sua maneira seguindo os padrões do Material Design [https://material.io/design].
+- Buscar aplicar uma arquitetura limpa, desacoplável e escalável de acordo com seu conhecimento.
+- Escolher e aplicar algum padrão de gerenciamento de estado que conheça bem como MobX (a que utilizamos), Provider, BloC, GetX, etc.
  
-### Extras (serão bem avaliados) 
+### Extras opcionais (serão bem avaliados) 
 
-- Construir UI e UX seguindo os padrões do Material Design [https://material.io/design].
 - Salvar os dados da API no banco de dados local servindo como cache.
-- Tratamento de erros ao consultar APIs (erro de conexão, dados inválidos, etc).
-- Paginar resultados usando método do scroll infinito.
-- Escolha de bibliotecas populares e estáveis para auxiliar no desenvolvimento.
-- Aplicar técnicas mais avançadas como injeção de dependência e design patterns.
-- Testes unitários.
+- Fazer o correto tratamento de erros ao consultar a API de acordo com seu tipo (Ex.: tratar erro de conexão, dados inválidos, etc).
+- Escolher bibliotecas populares e estáveis para auxiliar no desenvolvimento.
+- Ter domínio e aplicar técnicas mais avançadas como injeção de dependência e utilização de algum Design Pattern como Repository Pattern.
+- Desenvolver testes unitários e de widgets.
 
 ### Pontos que serão avaliados: 
 
 - Cumprimento dos objetivos propostos.
-- Preocupação com organização, padronização, modularização e qualidade do código.
-- Aplicação da lógica de programação e otimização de código.
-- Tempo para conclusão do projeto.
+- Preocupação com organização, padronização, modularização e qualidade do código (Clean Code).
+- Desenvolvimento de código bem modularizado e com separação de responsabilidades.
+- Construção da interface utilizando corretamente as recomendações do Material Design. 
 
 ### Observações
 
-- *Faça um fork deste repositório contendo o esqueleto inicial da aplicação.*
 - *Não é necessário disponibilizar a versão web e nem gerar um APK.*
 - *Compartilhe o link do seu repositório ao finalizar o projeto.*
